@@ -1,11 +1,11 @@
-# bibiso4
+# bibiso4 📒
 
-Convert bibtex journal and series names to ISO4. Usage
+Convert bibtex journal and series names to [ISO4](https://en.wikipedia.org/wiki/ISO_4). E.g., `Physical Review D` becomes `Phys. Rev. D`
 
-## Install
+## Install 💥
 
-     pipx install bibiso4
+     pipx install git+https://github.com/andrewfowlie/bibiso4/
 
-## Usage
+## Usage 💥
 
     bibiso4 references.bib > references_iso4.bib
