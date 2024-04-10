@@ -7,7 +7,7 @@ where = ["src"]
 
 [project]
 name = "bibiso4"
-version = "0.1.0"
+version = "0.1.1"
 authors = [{ name = "Andrew Fowlie", email = "andrew.j.fowlie@gmail.com" }]
 readme = "README.md"
 requires-python = ">=3.8"
