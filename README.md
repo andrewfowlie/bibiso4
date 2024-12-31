@@ -10,8 +10,8 @@ Convert bibtex journal and series names to [ISO4](https://en.wikipedia.org/wiki/
 
 ### Convert strings
 
-    iso4 The Journal of Whaveter Science
-    # J. Whaveter Sci.
+    iso4 The Journal of Whatever Science
+    # J.  Whatever Sci.
 
 ### Convert bibtex files
 
