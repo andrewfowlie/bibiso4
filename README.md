@@ -8,7 +8,14 @@ Convert bibtex journal and series names to [ISO4](https://en.wikipedia.org/wiki/
 
 ## Usage 💥
 
- The original bibtex file isn't modifie; instead, you should direct output to a new bibtex file. 
+### Convert strings
+
+    iso4 The Journal of Whaveter Science
+    # J. Whaveter Sci.
+
+### Convert bibtex files
+
+ The original bibtex file isn't modified; instead, you should direct output to a new bibtex file. 
 
     bibiso4 references.bib > references_iso4.bib
 
