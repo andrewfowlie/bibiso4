@@ -172,3 +172,8 @@ def replace_bibtex(file_name):
 def cli_replace_bibtex():
     file_name = sys.argv[1]
     return replace_bibtex(file_name)
+
+
+def cli_replace_str():
+    str_ = ' '.join(sys.argv[1:])
+    return replace(str_)

@@ -19,6 +19,7 @@ classifiers = [
 
 [project.scripts]
 bibiso4 = "bibiso4:cli_replace_bibtex"
+iso4 = "bibiso4:cli_replace_str"
 
 [tool.setuptools.package-data]
 bibiso4 = ["*.json"]
